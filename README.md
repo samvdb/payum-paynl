@@ -1,5 +1,5 @@
 # Payum PayNL
-[![Build Status](https://travis-ci.org/samvdb/Payum-paynl.png?branch=master)](https://travis-ci.org/samvdb/Payum-paynl)
+[![Build Status](https://travis-ci.com/samvdb/payum-paynl.svg?branch=master)](https://travis-ci.org/samvdb/Payum-paynl)
 [![Total Downloads](https://poser.pugx.org/samvdb/Payum-paynl/d/total.png)](https://packagist.org/packages/samvdb/Payum-paynl)
 [![Latest Stable Version](https://poser.pugx.org/samvdb/Payum-paynl/version.png)](https://packagist.org/packages/samvdb/Payum-paynl)
 
