@@ -9,7 +9,7 @@ The Payum PayNL extension
 1. Require extension
 
 ```bash
-$ composer create-project samvdb/payum-paynl
+$ composer require samvdb/payum-paynl
 ```
 
 ```php
